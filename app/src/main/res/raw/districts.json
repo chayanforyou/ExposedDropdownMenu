@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "division_id": 1,
+    "district_name_english": "Dhaka",
+    "district_name_bangla": "ঢাকা",
+    "latitude": 23.7104,
+    "longitude": 90.40744
+  },
+  {
+    "id": 2,
+    "division_id": 1,
+    "district_name_english": "Faridpur",
+    "district_name_bangla": "ফরিদপুর",
+    "latitude": 23.60612,
+    "longitude": 89.84064
+  },
+  {
+    "id": 3,
+    "division_id": 1,
+    "district_name_english": "Gazipur",
+    "district_name_bangla": "গাজীপুর",
+    "latitude": 24.0958,
+    "longitude": 90.4125
+  },
+  {
+    "id": 4,
+    "division_id": 1,
+    "district_name_english": "Gopalganj",
+    "district_name_bangla": "গোপালগঞ্জ",
+    "latitude": 23.0488,
+    "longitude": 89.8879
+  },
+  {
+    "id": 5,
+    "division_id": 1,
+    "district_name_english": "Kishoreganj",
+    "district_name_bangla": "কিশোরগঞ্জ",
+    "latitude": 24.43944,
+    "longitude": 90.78291
+  },
+  {
+    "id": 6,
+    "division_id": 1,
+    "district_name_english": "Madaripur",
+    "district_name_bangla": "মাদারীপুর",
+    "latitude": 23.1709,
+    "longitude": 90.20935
+  },
+  {
+    "id": 7,
+    "division_id": 1,
+    "district_name_english": "Manikganj",
+    "district_name_bangla": "মানিকগঞ্জ",
+    "latitude": 23.8585,
+    "longitude": 89.9253
+  },
+  {
+    "id": 8,
+    "division_id": 1,
+    "district_name_english": "Munshiganj",
+    "district_name_bangla": "মুন্সীগঞ্জ",
+    "latitude": 23.5249,
+    "longitude": 90.3372
+  },
+  {
+    "id": 9,
+    "division_id": 1,
+    "district_name_english": "Narayanganj",
+    "district_name_bangla": "নারায়ণগঞ্জ",
+    "latitude": 23.61352,
+    "longitude": 90.50298
+  },
+  {
+    "id": 10,
+    "division_id": 1,
+    "district_name_english": "Narsingdi",
+    "district_name_bangla": "নরসিংদী",
+    "latitude": 23.92298,
+    "longitude": 90.71768
+  },
+  {
+    "id": 11,
+    "division_id": 1,
+    "district_name_english": "Rajbari",
+    "district_name_bangla": "রাজবাড়ী",
+    "latitude": 23.7151,
+    "longitude": 89.5875
+  },
+  {
+    "id": 12,
+    "division_id": 1,
+    "district_name_english": "Shariatpur",
+    "district_name_bangla": "শরীয়তপুর",
+    "latitude": 23.2866,
+    "longitude": 90.3748
+  },
+  {
+    "id": 13,
+    "division_id": 1,
+    "district_name_english": "Tangail",
+    "district_name_bangla": "টাঙ্গাইল",
+    "latitude": 24.24984,
+    "longitude": 89.91655
+  },
+  {
+    "id": 14,
+    "division_id": 2,
+    "district_name_english": "Bandarban",
+    "district_name_bangla": "বান্দরবান",
+    "latitude": 22.19534,
+    "longitude": 92.21946
+  },
+  {
+    "id": 15,
+    "division_id": 2,
+    "district_name_english": "Brahmanbaria",
+    "district_name_bangla": "ব্রাহ্মণবাড়িয়া",
+    "latitude": 23.9616,
+    "longitude": 91.1065
+  },
+  {
+    "id": 16,
+    "division_id": 2,
+    "district_name_english": "Chandpur",
+    "district_name_bangla": "চাঁদপুর",
+    "latitude": 23.2849,
+    "longitude": 90.8294
+  },
+  {
+    "id": 17,
+    "division_id": 2,
+    "district_name_english": "Chattogram",
+    "district_name_bangla": "চট্টগ্রাম",
+    "latitude": 22.3384,
+    "longitude": 91.83168
+  },
+  {
+    "id": 18,
+    "division_id": 2,
+    "district_name_english": "Cumilla",
+    "district_name_bangla": "কুমিল্লা",
+    "latitude": 23.46186,
+    "longitude": 91.18503
+  },
+  {
+    "id": 19,
+    "division_id": 2,
+    "district_name_english": "Cox's Bazar",
+    "district_name_bangla": "কক্সবাজার",
+    "latitude": 21.45388,
+    "longitude": 91.96765
+  },
+  {
+    "id": 20,
+    "division_id": 2,
+    "district_name_english": "Feni",
+    "district_name_bangla": "ফেনী",
+    "latitude": 23.0144,
+    "longitude": 91.3966
+  },
+  {
+    "id": 21,
+    "division_id": 2,
+    "district_name_english": "Khagrachhari",
+    "district_name_bangla": "খাগড়াছড়ি",
+    "latitude": 23.10787,
+    "longitude": 91.97007
+  },
+  {
+    "id": 22,
+    "division_id": 2,
+    "district_name_english": "Lakshmipur",
+    "district_name_bangla": "লক্ষ্মীপুর",
+    "latitude": 22.9443,
+    "longitude": 90.83005
+  },
+  {
+    "id": 23,
+    "division_id": 2,
+    "district_name_english": "Noakhali",
+    "district_name_bangla": "নোয়াখালী",
+    "latitude": 22.5205,
+    "longitude": 91.1353
+  },
+  {
+    "id": 24,
+    "division_id": 2,
+    "district_name_english": "Rangamati",
+    "district_name_bangla": "রাঙ্গামাটি",
+    "latitude": 22.8904,
+    "longitude": 92.2237
+  },
+  {
+    "id": 25,
+    "division_id": 3,
+    "district_name_english": "Bogura",
+    "district_name_bangla": "বগুড়া",
+    "latitude": 24.85098,
+    "longitude": 89.37108
+  },
+  {
+    "id": 26,
+    "division_id": 3,
+    "district_name_english": "Joypurhat",
+    "district_name_bangla": "জয়পুরহাট",
+    "latitude": 25.10147,
+    "longitude": 89.02734
+  },
+  {
+    "id": 27,
+    "division_id": 3,
+    "district_name_english": "Naogaon",
+    "district_name_bangla": "নওগাঁ",
+    "latitude": 24.7936,
+    "longitude": 88.9318
+  },
+  {
+    "id": 28,
+    "division_id": 3,
+    "district_name_english": "Natore",
+    "district_name_bangla": "নাটোর",
+    "latitude": 24.426,
+    "longitude": 89.0179
+  },
+  {
+    "id": 29,
+    "division_id": 3,
+    "district_name_english": "Chapai Nawabganj",
+    "district_name_bangla": "চাঁপাই নবাবগঞ্জ",
+    "latitude": 24.59025,
+    "longitude": 88.27444
+  },
+  {
+    "id": 30,
+    "division_id": 3,
+    "district_name_english": "Pabna",
+    "district_name_bangla": "পাবনা",
+    "latitude": 24.0129,
+    "longitude": 89.2591
+  },
+  {
+    "id": 31,
+    "division_id": 3,
+    "district_name_english": "Rajshahi",
+    "district_name_bangla": "রাজশাহী",
+    "latitude": 24.3636,
+    "longitude": 88.6241
+  },
+  {
+    "id": 32,
+    "division_id": 3,
+    "district_name_english": "Sirajganj",
+    "district_name_bangla": "সিরাজগঞ্জ",
+    "latitude": 24.45771,
+    "longitude": 89.70802
+  },
+  {
+    "id": 33,
+    "division_id": 4,
+    "district_name_english": "Bagerhat",
+    "district_name_bangla": "বাগেরহাট",
+    "latitude": 22.3336,
+    "longitude": 89.7755
+  },
+  {
+    "id": 34,
+    "division_id": 4,
+    "district_name_english": "Chuadanga",
+    "district_name_bangla": "চুয়াডাঙ্গা",
+    "latitude": 23.6161,
+    "longitude": 88.8263
+  },
+  {
+    "id": 35,
+    "division_id": 4,
+    "district_name_english": "Jashore",
+    "district_name_bangla": "যশোর",
+    "latitude": 23.16971,
+    "longitude": 89.21371
+  },
+  {
+    "id": 36,
+    "division_id": 4,
+    "district_name_english": "Jhenaidah",
+    "district_name_bangla": "ঝিনাইদহ",
+    "latitude": 23.4754,
+    "longitude": 89.1706
+  },
+  {
+    "id": 37,
+    "division_id": 4,
+    "district_name_english": "Khulna",
+    "district_name_bangla": "খুলনা",
+    "latitude": 22.80979,
+    "longitude": 89.56439
+  },
+  {
+    "id": 38,
+    "division_id": 4,
+    "district_name_english": "Kushtia",
+    "district_name_bangla": "কুষ্টিয়া",
+    "latitude": 23.9028,
+    "longitude": 89.11943
+  },
+  {
+    "id": 39,
+    "division_id": 4,
+    "district_name_english": "Magura",
+    "district_name_bangla": "মাগুরা",
+    "latitude": 23.429,
+    "longitude": 89.4364
+  },
+  {
+    "id": 40,
+    "division_id": 4,
+    "district_name_english": "Meherpur",
+    "district_name_bangla": "মেহেরপুর",
+    "latitude": 23.8052,
+    "longitude": 88.6724
+  },
+  {
+    "id": 41,
+    "division_id": 4,
+    "district_name_english": "Narail",
+    "district_name_bangla": "নড়াইল",
+    "latitude": 23.15509,
+    "longitude": 89.49515
+  },
+  {
+    "id": 42,
+    "division_id": 4,
+    "district_name_english": "Satkhira",
+    "district_name_bangla": "সাতক্ষিরা",
+    "latitude": 22.70817,
+    "longitude": 89.07185
+  },
+  {
+    "id": 43,
+    "division_id": 5,
+    "district_name_english": "Barguna",
+    "district_name_bangla": "বরগুনা",
+    "latitude": 22.0953,
+    "longitude": 90.1121
+  },
+  {
+    "id": 44,
+    "division_id": 5,
+    "district_name_english": "Barishal",
+    "district_name_bangla": "বরিশাল",
+    "latitude": 22.70497,
+    "longitude": 90.37013
+  },
+  {
+    "id": 45,
+    "division_id": 5,
+    "district_name_english": "Bhola",
+    "district_name_bangla": "ভোলা",
+    "latitude": 22.68759,
+    "longitude": 90.64403
+  },
+  {
+    "id": 46,
+    "division_id": 5,
+    "district_name_english": "Jhalokati",
+    "district_name_bangla": "ঝালকাঠি",
+    "latitude": 22.5721,
+    "longitude": 90.187
+  },
+  {
+    "id": 47,
+    "division_id": 5,
+    "district_name_english": "Patuakhali",
+    "district_name_bangla": "পটুয়াখালী",
+    "latitude": 22.3543,
+    "longitude": 90.3348
+  },
+  {
+    "id": 48,
+    "division_id": 5,
+    "district_name_english": "Pirojpur",
+    "district_name_bangla": "পিরোজপুর",
+    "latitude": 22.57965,
+    "longitude": 89.97521
+  },
+  {
+    "id": 49,
+    "division_id": 6,
+    "district_name_english": "Habiganj",
+    "district_name_bangla": "হবিগঞ্জ",
+    "latitude": 24.38044,
+    "longitude": 91.41299
+  },
+  {
+    "id": 50,
+    "division_id": 6,
+    "district_name_english": "Moulvibazar",
+    "district_name_bangla": "মৌলভীবাজার",
+    "latitude": 24.48888,
+    "longitude": 91.77075
+  },
+  {
+    "id": 51,
+    "division_id": 6,
+    "district_name_english": "Sunamganj",
+    "district_name_bangla": "সুনামগঞ্জ",
+    "latitude": 25.0667,
+    "longitude": 91.4072
+  },
+  {
+    "id": 52,
+    "division_id": 6,
+    "district_name_english": "Sylhet",
+    "district_name_bangla": "সিলেট",
+    "latitude": 24.89904,
+    "longitude": 91.87198
+  },
+  {
+    "id": 53,
+    "division_id": 7,
+    "district_name_english": "Dinajpur",
+    "district_name_bangla": "দিনাজপুর",
+    "latitude": 25.62745,
+    "longitude": 88.63779
+  },
+  {
+    "id": 54,
+    "division_id": 7,
+    "district_name_english": "Gaibandha",
+    "district_name_bangla": "গাইবান্ধা",
+    "latitude": 25.188,
+    "longitude": 89.4742
+  },
+  {
+    "id": 55,
+    "division_id": 7,
+    "district_name_english": "Kurigram",
+    "district_name_bangla": "কুড়িগ্রাম",
+    "latitude": 25.757,
+    "longitude": 89.6252
+  },
+  {
+    "id": 56,
+    "division_id": 7,
+    "district_name_english": "Lalmonirhat",
+    "district_name_bangla": "লালমনিরহাট",
+    "latitude": 25.91719,
+    "longitude": 89.44595
+  },
+  {
+    "id": 57,
+    "division_id": 7,
+    "district_name_english": "Nilphamari",
+    "district_name_bangla": "নীলফামারী",
+    "latitude": 25.99,
+    "longitude": 88.9031
+  },
+  {
+    "id": 58,
+    "division_id": 7,
+    "district_name_english": "Panchagarh",
+    "district_name_bangla": "পঞ্চগড়",
+    "latitude": 26.33338,
+    "longitude": 88.55777
+  },
+  {
+    "id": 59,
+    "division_id": 7,
+    "district_name_english": "Rangpur",
+    "district_name_bangla": "রংপুর",
+    "latitude": 25.74664,
+    "longitude": 89.25166
+  },
+  {
+    "id": 60,
+    "division_id": 7,
+    "district_name_english": "Thakurgaon",
+    "district_name_bangla": "ঠাকুরগাঁও",
+    "latitude": 26.03097,
+    "longitude": 88.46989
+  },
+  {
+    "id": 61,
+    "division_id": 8,
+    "district_name_english": "Jamalpur",
+    "district_name_bangla": "জামালপুর",
+    "latitude": 24.91965,
+    "longitude": 89.94812
+  },
+  {
+    "id": 62,
+    "division_id": 8,
+    "district_name_english": "Mymensingh",
+    "district_name_bangla": "ময়মনসিংহ",
+    "latitude": 24.75636,
+    "longitude": 90.40646
+  },
+  {
+    "id": 63,
+    "division_id": 8,
+    "district_name_english": "Netrokona",
+    "district_name_bangla": "নেত্রকোনা",
+    "latitude": 24.88352,
+    "longitude": 90.72898
+  },
+  {
+    "id": 64,
+    "division_id": 8,
+    "district_name_english": "Sherpur",
+    "district_name_bangla": "শেরপুর",
+    "latitude": 25.01881,
+    "longitude": 90.01751
+  }
+]

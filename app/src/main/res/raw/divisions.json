@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "division_name_english": "Dhaka",
+    "division_name_bangla": "ঢাকা"
+  },
+  {
+    "id": 2,
+    "division_name_english": "Chattogram",
+    "division_name_bangla": "চট্টগ্রাম"
+  },
+  {
+    "id": 3,
+    "division_name_english": "Rajshahi",
+    "division_name_bangla": "রাজশাহী"
+  },
+  {
+    "id": 4,
+    "division_name_english": "Khulna",
+    "division_name_bangla": "খুলনা"
+  },
+  {
+    "id": 5,
+    "division_name_english": "Barishal",
+    "division_name_bangla": "বরিশাল"
+  },
+  {
+    "id": 6,
+    "division_name_english": "Sylhet",
+    "division_name_bangla": "সিলেট"
+  },
+  {
+    "id": 7,
+    "division_name_english": "Rangpur",
+    "division_name_bangla": "রংপুর"
+  },
+  {
+    "id": 8,
+    "division_name_english": "Mymensingh",
+    "division_name_bangla": "ময়মনসিংহ"
+  }
+]
