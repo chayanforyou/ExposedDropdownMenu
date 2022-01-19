@@ -1,3 +1,3 @@
 # ExposedDropdownMenu
 
-<img src=https://github.com/chayanforyou/ExposedDropdownMenu/blob/main/screenshots/screenshot.jpg" width="100" height="100">
+![](https://github.com/chayanforyou/ExposedDropdownMenu/blob/main/screenshots/screenshot.jpg)
