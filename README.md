@@ -1,3 +1,3 @@
 # ExposedDropdownMenu
 
-![](https://github.com/chayanforyou/ExposedDropdownMenu/blob/main/screenshots/screenshot.jpg)
+![](https://github.com/chayanforyou/ExposedDropdownMenu/blob/main/screenshots/screenshot.gif)
